@@ -1,1 +1,2 @@
-export default function myModule(): string { return 'Hallo my module'; }
+import utils from "utils/utils"
+export default function myModule(): string { return utils(); } 
