@@ -1,8 +1,8 @@
 {
   "name": "my-module",
   "version": "1.0.0",
-  "main": "index",
   "jspm": {
+    "main": "index",
     "format":  "cjs",
     "directories": { }
   }
