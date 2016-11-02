@@ -1,12 +1,9 @@
 {
   "name": "my-module",
   "version": "1.0.0",
-  "registry": "jspm",
   "jspm": {
     "main": "index",
     "format":  "cjs",
-    "directories": {
-      "lib": "lib"
-    }
+    "directories": { }
   }
 }
