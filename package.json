@@ -2,8 +2,6 @@
   "name": "my-module",
   "version": "1.0.0",
   "jspm": {
-    "main": "index",
-    "format":  "cjs",
-    "directories": { }
+    "main": "lib/index.js"
   }
 }
