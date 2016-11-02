@@ -1,1 +1,1 @@
-export default function myModule(): string;
+export default function myModuleCall(): string;

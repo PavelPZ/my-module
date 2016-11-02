@@ -1,2 +1,2 @@
 import utils from "./utils/my-utils"
-export default function myModule(): string { return utils(); } 
+export default function myModuleCall(): string { return utils(); } 
